@@ -1,0 +1,171 @@
+{
+  "categorias": [
+    {
+      "titulo": "Base Game",
+      "link": "https://www.thesims.com.br/",
+      "cor": "#0716e8",
+      "link_extra": {
+        "text": "Play with life!",
+        "url": "https://www.origin.com/bra/pt-br/store/the-sims/the-sims-4"
+      },
+      "videos": [
+        {
+          "titulo": "The Sims Spark'd is on air!",
+          "url": "https://www.youtube.com/watch?v=1JGKbW-jSPk"
+        }, {
+          "titulo": "First Look",
+          "url": "https://www.youtube.com/watch?v=WjPPjU8OARg"
+        }, {
+          "titulo": "Create a Sim",
+          "url": "https://www.youtube.com/watch?v=pZmtGfTj-to"
+        }, {
+          "titulo": "Build Mode",
+          "url": "https://www.youtube.com/watch?v=9KSFkcKBBMo"
+        }, {
+          "titulo": "Stories",
+          "url": "https://www.youtube.com/watch?v=1xZn8XUUat8"
+        }, {
+          "titulo": "Launch Trailer",
+          "url": "https://www.youtube.com/watch?v=z00mK3Pxc8w"
+        }
+
+      ]
+    },
+    {
+      "titulo": "Expansion Packs",
+      "link": "https://www.thesims.com.br/",
+      "cor": "#097F80",
+      "link_extra": {
+        "text": "Expand your worlds!",
+        "url": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/pc/store"
+      },
+      "videos": [
+        {
+          "titulo": "Eco Lifestyle",
+          "url": "https://www.youtube.com/watch?v=Q2ce9VSNsjE"
+        }, {
+          "titulo": "Discover University",
+          "url": "https://www.youtube.com/watch?v=VtPy-71fkSc"
+        }, {
+          "titulo": "Island Living",
+          "url": "https://www.youtube.com/watch?v=ihFbmjYm7CQ"
+        }, {
+          "titulo": "Get Famous",
+          "url": "https://www.youtube.com/watch?v=fIekuG3FG7I"
+        }, {
+          "titulo": "Seasons",
+          "url": "https://www.youtube.com/watch?v=tn0hCTyj2Kc"
+        }, {
+          "titulo": "Cats & Dogs",
+          "url": "https://www.youtube.com/watch?v=OFWb3lgRpcE"
+        }, {
+          "titulo": "City Living",
+          "url": "https://www.youtube.com/watch?v=W458QnCVQik"
+        }, {
+          "titulo": "Get Together",
+          "url": "https://www.youtube.com/watch?v=X4owA7k9UrY"
+        }, {
+          "titulo": "Get to Work",
+          "url": "https://www.youtube.com/watch?v=rinBmBen2Iw"
+        }
+
+      ]
+    },
+    {
+      "titulo": "Game Packs",
+      "link": "https://www.thesims.com.br/",
+      "cor": "#3100FD",
+      "link_extra": {
+        "text": "More possibilities!",
+        "url": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/pc/store"
+      },
+      "videos": [
+        {
+          "titulo": "Realm of Magic",
+          "url": "https://www.youtube.com/watch?v=L09ld07hEVc"
+        }, {
+          "titulo": "StrangerVille",
+          "url": "https://www.youtube.com/watch?v=6CQ9Gccjs4c"
+        }, {
+          "titulo": "Jungle Adventure",
+          "url": "https://www.youtube.com/watch?v=gZTgUlEZqgk"
+        }, {
+          "titulo": "Parenthood",
+          "url": "https://www.youtube.com/watch?v=MIW6kougM6w"
+        }, {
+          "titulo": "Vampires",
+          "url": "https://www.youtube.com/watch?v=oNvqfjOQPsY"
+        }, {
+          "titulo": "Dine Out",
+          "url": "https://www.youtube.com/watch?v=p0N3_HfzEVY"
+        }, {
+          "titulo": "Spa Day",
+          "url": "https://www.youtube.com/watch?v=4rRnYv2EDq0"
+        }, {
+          "titulo": "Outdoor Retreat",
+          "url": "https://www.youtube.com/watch?v=kpx72bF4GFY"
+        }
+      ]
+    },
+    {
+      "titulo": "Stuff Packs",
+      "link": "https://www.thesims.com.br/",
+      "cor": "#278405",
+      "link_extra": {
+        "text": "More items!",
+        "url": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/pc/store"
+      },
+      "videos": [
+        {
+          "titulo": "Nifty Knitting",
+          "url": "https://www.youtube.com/watch?v=s2r_aaVtsSY"
+        }, {
+          "titulo": "Tiny Living",
+          "url": "https://www.youtube.com/watch?v=LcB8QyWRk7g"
+        }, {
+          "titulo": "Moschino",
+          "url": "https://www.youtube.com/watch?v=-5_94WYACUY"
+        }, {
+          "titulo": "Laundry Day",
+          "url": "https://www.youtube.com/watch?v=j8yTBEBpZts"
+        }, {
+          "titulo": "Toddler",
+          "url": "https://www.youtube.com/watch?v=lbj-bIMwdmg"
+        }, {
+          "titulo": "Fitness",
+          "url": "https://www.youtube.com/watch?v=0GN_cAZAVes"
+        }, {
+          "titulo": "Bowling Night",
+          "url": "https://www.youtube.com/watch?v=6WkEKKJoUUM"
+        }, {
+          "titulo": "Vintage Glamour",
+          "url": "https://www.youtube.com/watch?v=twE9NcxZOnc"
+        }, {
+          "titulo": "Backyard",
+          "url": "https://www.youtube.com/watch?v=a5vvwg48iNE"
+        }, {
+          "titulo": "Kids Room",
+          "url": "https://www.youtube.com/watch?v=CB5czPFW2Ag"
+        }, {
+          "titulo": "Romantic Garden",
+          "url": "https://www.youtube.com/watch?v=P0DmNcD-HHk"
+        }, {
+          "titulo": "Movie Hangout",
+          "url": "https://www.youtube.com/watch?v=u_twFiPPNvE"
+        }, {
+          "titulo": "Spooky",
+          "url": "https://www.youtube.com/watch?v=OiYxOKThDzE"
+        }, {
+          "titulo": "Cool Kitchen",
+          "url": "https://www.youtube.com/watch?v=xAbR33Fr0ig"
+        }, {
+          "titulo": "Perfect Patio",
+          "url": "https://www.youtube.com/watch?v=veo2qww_HSA"
+        }, {
+          "titulo": "Luxury Party",
+          "url": "https://www.youtube.com/watch?v=r80FdQjTKIE"
+        }
+      ]
+    }
+  ]
+}
